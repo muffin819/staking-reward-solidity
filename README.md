@@ -85,7 +85,7 @@ Below is an example of how to start interacting with the smart contract locally.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Al-Qa-qa/staking-rewards.git
+   git clone https://github.com/muffin819/staking-reward-solidity.git
    ```
 2. Install NPM packages (remember to move to the directory `staking-rewards` first)
    ```sh
@@ -116,10 +116,7 @@ This project is under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Al-Qa'qa' - [@Al_Qa_qa](https://twitter.com/Al_Qa_qa) - alqaqa.fighter@gmail.com
-
-Project Link: [https://github.com/Al-Qa-qa/staking-rewards](https://github.com/Al-Qa-qa/staking-rewards)
-
+https://t.me/dogewhiz
 
 
 <!-- ACKNOWLEDGMENTS -->
